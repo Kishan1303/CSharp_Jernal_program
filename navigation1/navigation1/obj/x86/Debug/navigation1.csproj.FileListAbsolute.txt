@@ -1,0 +1,10 @@
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\bin\Debug\bin\Debug\navigation1.mdf
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\bin\Debug\bin\Debug\navigation1_log.ldf
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\bin\Debug\navigation1.exe
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\bin\Debug\navigation1.pdb
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\obj\x86\Debug\navigation1.Form1.resources
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\obj\x86\Debug\navigation1.Properties.Resources.resources
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\obj\x86\Debug\navigation1.csproj.GenerateResource.Cache
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\obj\x86\Debug\navigation1.exe
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\obj\x86\Debug\navigation1.pdb
+E:\Kishan Bhupta\C # programs windows\navigation1\navigation1\obj\x86\Debug\navigation1.csprojResolveAssemblyReference.cache
